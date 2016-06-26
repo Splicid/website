@@ -1,5 +1,10 @@
 $(document).ready(function(){
-console.log("ready!");
+
+$("#buttons").click(function(){
+
+});
+
+
 
 
 

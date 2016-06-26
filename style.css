@@ -1,0 +1,20 @@
+body {
+background-color: #4d0000;
+
+
+}
+.img-circle{
+  border-radius: 20%;
+  background-color: black;
+  padding: 3px;
+}
+img{
+  width: 120px;
+  height: 120px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.navbar{
+  padding: 10px;
+}
